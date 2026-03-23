@@ -1,16 +1,35 @@
-## Hi there 👋
+# Faris Ejaz
+.NET Full-Stack | HW Integrations | AI Researcher | SafeTech
 
-<!--
-**FarisET/FarisET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Overview
+- 📦 58 Repositories
+- 🤖 AI (Python Projects)
+- 📱 Android (Java)
+- ⚙️ .NET Full-Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-green)
+![React](https://img.shields.io/badge/React-JS-blue)
+![MS SQL Server](https://img.shields.io/badge/ASP.NET-Core-green)
+![Python](https://img.shields.io/badge/Python-AI-yellow)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
+![JAVA](https://img.shields.io/badge/Flutter-Mobile-blue)
+![Android Studio](https://img.shields.io/badge/Python-AI-yellow)
+
+---
+
+## 🚀 Focus Areas
+- AI-powered safety systems  
+- Enterprise .NET applications  
+- Hardware integrations (RFID, sensors)  
+- SaaS platforms (EHS, WMS)
+
+---
+
+## 📈 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
