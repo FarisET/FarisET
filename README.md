@@ -11,6 +11,10 @@
 
 ---
 
+
+## 🚀 Currently Working on
+- Environment, Health & Safety Apps for offline incident reporting, automated drills & AI-powered reasoning
+
 ## 🛠 Tech Stack
 ![C#](https://img.shields.io/badge/C%23-.NET-blue)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-green)
@@ -23,11 +27,15 @@
 
 ---
 
-## 🚀 Focus Areas
-- AI-powered safety systems  
-- Enterprise .NET applications  
+## 🚀 Professional
+- Enterprise .NET applications
+- React JS Frontend Developement
 - Hardware integrations (RFID, sensors)  
-- SaaS platforms (EHS, WMS)
+
+## 🚀 Professional
+- AI-powered safety systems  
+- Mobile Development
+
 
 ---
 
